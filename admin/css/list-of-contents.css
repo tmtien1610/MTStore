@@ -1,0 +1,8 @@
+.feature-img{
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 8%);
+    max-height: 100px;
+    height: auto;
+}
